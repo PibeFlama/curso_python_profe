@@ -5,7 +5,7 @@ def main():
 
 def probar_cuadrado():
     # El comando assert de Python nos permite decirle al intérprete que algo, 
-    # alguna afirmación, es verdadera.
+    # alguna afirmación, es verdadera. ponerle try y chatch a todo xd. pip instal pytest
     assert cuadrado(2) == 4
     assert cuadrado(3) == 9
 
