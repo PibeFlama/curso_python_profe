@@ -1,4 +1,4 @@
-# pip install cowsay
+#pip install cowsay // esto va en consola xdd sino no funca
 import sys
 import cowsay
 

@@ -6,3 +6,4 @@ import random
 # Esa función toma un seq o secuencia que es una lista.
 moneda = random.choice(["cara", "cruz"])
 print(moneda)
+#fg
